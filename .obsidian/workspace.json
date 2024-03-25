@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b0333652d6c46ab",
+            "id": "6a721bab4f0a09fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "6a721bab4f0a09fd",
+            "id": "b85e1c8de7e60932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📋 Linked Lists/🅾️ Big O Notation.md",
+                "file": "💻 Coding Linked list.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Intro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📋 Linked Lists/🅾️ Big O Notation.md",
+                "file": "💻 Coding Linked list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📋 Linked Lists/🅾️ Big O Notation.md",
+                "file": "💻 Coding Linked list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,11 +140,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📋 Linked Lists/🅾️ Big O Notation.md"
+                "file": "💻 Coding Linked list.md"
               }
             }
+          },
+          {
+            "id": "5bd9b4fca44ac867",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -160,20 +170,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a721bab4f0a09fd",
+  "active": "5bd9b4fca44ac867",
   "lastOpenFiles": [
     "📋 Linked Lists/🎥 Introduction.md",
+    "💻 Coding Linked list.md",
+    "🏗️ Under the hood.md",
+    "files/CleanShot 2024-03-25 at 10.19.06@2x.png",
+    "files/CleanShot 2024-03-25 at 10.18.26@2x.png",
     "📋 Linked Lists/🅾️ Big O Notation.md",
+    "files/CleanShot 2024-03-25 at 10.15.40@2x.png",
+    "files/CleanShot 2024-03-25 at 10.13.34@2x.png",
     "files/CleanShot 2024-03-25 at 09.57.23@2x 1.png",
     "files/CleanShot 2024-03-25 at 09.57.23@2x.png",
     "files/CleanShot 2024-03-25 at 09.56.50@2x.png",
     "files/CleanShot 2024-03-25 at 09.56.14@2x.png",
     "files/CleanShot 2024-03-25 at 09.55.23@2x.png",
     "files/CleanShot 2024-03-25 at 09.54.11@2x.png",
-    "files/CleanShot 2024-03-25 at 09.53.02@2x.png",
-    "files/CleanShot 2024-03-25 at 09.52.31@2x.png",
-    "files/CleanShot 2024-03-25 at 09.50.21@2x.png",
-    "files/CleanShot 2024-03-25 at 09.49.12@2x.png",
     "files",
     "Welcome.md",
     "📋 Linked Lists"

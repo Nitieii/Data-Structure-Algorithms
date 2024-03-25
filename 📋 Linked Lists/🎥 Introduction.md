@@ -8,4 +8,10 @@
 
 [[🅾️ Big O Notation]]
 
+### Under the hood
 
+[[🏗️ Under the hood]]
+
+### Coding linked list
+
+[[💻 Coding Linked list]]

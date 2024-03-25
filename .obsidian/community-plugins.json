@@ -1,3 +1,7 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "dataview",
+  "cm-editor-syntax-highlight-obsidian",
+  "remotely-save"
 ]

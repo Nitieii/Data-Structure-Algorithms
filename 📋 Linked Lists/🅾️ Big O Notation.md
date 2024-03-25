@@ -50,3 +50,17 @@
 
 	![[CleanShot 2024-03-25 at 09.57.23@2x 1.png]]
 
+
+#### Search a node inside the linked list
+
+![[CleanShot 2024-03-25 at 10.13.34@2x.png]]
+
+- Iterate through all of the nodes inside the list until find the index 2.
+=> The Big O is **O(n)**
+
+
+
+### Compare Linked Lists to Lists
+
+![[CleanShot 2024-03-25 at 10.15.40@2x.png]]
+
